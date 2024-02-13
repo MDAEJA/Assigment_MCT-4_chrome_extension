@@ -9,21 +9,26 @@
 
 ## Screenshots
 
-Button in player
+#Button in player
+
 ![Screenshot 2024-02-13 205830](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/66ad9210-7776-4cd2-9364-974eede54add)
 
-Popup Light Mode
+#Popup Light Mode
+
 ![unnamed (1)](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/e228c9fd-bf2d-40c4-8319-a332f9a794f4)
 
 
-All bookmarks Light Mode
+#All bookmarks Light Mode
+
 ![Screenshot 2024-02-13 210209](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/ce00ff7a-68b4-4615-9462-eb3024aefacc)
 
 
-Popup Dark Mode
+#Popup Dark Mode
+
 ![Screenshot 2024-02-13 210259](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/8ba4c493-0f08-4581-b01b-75f3eb72bf22)
 
-All bookmarks Dark Mode
+#All bookmarks Dark Mode
+
 ![Screenshot 2024-02-13 210259](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/15281c84-0252-4d09-b2fb-0de0a0e18da9)
 
 
