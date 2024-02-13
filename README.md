@@ -11,8 +11,8 @@
 
 Button in player
 
-![Button in player](![image](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/e5fcaa81-d856-4781-bd1f-7dd15a7d620a)
-)
+![Screenshot 2024-02-13 205830](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/66ad9210-7776-4cd2-9364-974eede54add)
+
 
 Popup Light Mode
 
