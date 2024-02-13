@@ -10,28 +10,22 @@
 ## Screenshots
 
 Button in player
-
 ![Screenshot 2024-02-13 205830](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/66ad9210-7776-4cd2-9364-974eede54add)
 
-
 Popup Light Mode
+![unnamed (1)](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/e228c9fd-bf2d-40c4-8319-a332f9a794f4)
 
-![Popup Light Mode](![image](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/05da615c-e0b4-4046-b6be-5c2f57d90b7e)
-)
 
 All bookmarks Light Mode
+![Screenshot 2024-02-13 210209](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/ce00ff7a-68b4-4615-9462-eb3024aefacc)
 
-![All bookmarks Light Mode](https://github.com/shah9380/TeamUnityBase/assets/25417313/b0e58b0c-52f9-4419-9323-62496e89e619)
 
 Popup Dark Mode
-
-![Popup Dark Mode](![image](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/a6f29a51-7662-4f00-8143-c03e5b50588b)
-)
+![Screenshot 2024-02-13 210259](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/8ba4c493-0f08-4581-b01b-75f3eb72bf22)
 
 All bookmarks Dark Mode
+![Screenshot 2024-02-13 210259](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/15281c84-0252-4d09-b2fb-0de0a0e18da9)
 
-![All bookmarks Dark Mode](![image](https://github.com/MDAEJA/Assigment_MCT-4_chrome_extension/assets/149299483/79ccb17e-4e68-4e62-9dc5-4c51198893ca)
-)
 
 
 
